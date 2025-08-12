@@ -1,0 +1,6 @@
+Started: 2025-08-11 17:34:49
+Ended  : 2025-08-11 17:34:51
+
+[Imported] aurora 1.04.unitypackage (0.46s) : OK - インポート完了
+[Imported] AvatarOptimizer-1.x.x-installer.unitypackage (0.18s) : OK - インポート完了
+[Completed] 2/2 成功 | Total 0.64s

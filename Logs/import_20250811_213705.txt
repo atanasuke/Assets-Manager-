@@ -1,0 +1,8 @@
+Started: 2025-08-11 21:37:03
+Ended  : 2025-08-11 21:37:05
+
+[Extracted] ChatonLune_shinano_pose_set.zip -> Assets/Chaton Lune\〖free 無料 〗cute pose set ✞ : 14 .anim
+[Imported] [Free] Animation.unitypackage (0.17s) : OK - インポート完了
+[Imported] aurora 1.04.unitypackage (0.48s) : OK - インポート完了
+[Imported] Good Luck.unitypackage (0.35s) : OK - インポート完了
+[Completed] 3/3 成功 | Total 1.12s

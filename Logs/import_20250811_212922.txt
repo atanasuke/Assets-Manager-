@@ -1,0 +1,6 @@
+Started: 2025-08-11 21:29:21
+Ended  : 2025-08-11 21:29:22
+
+[Extracted] cat_shadow.zip -> Assets/eisiseu\cat shadow pose : 1 .anim
+[Imported] Deviate_Pose + SceneSet.unitypackage (0.43s) : OK - インポート完了
+[Completed] 1/1 成功 | Total 0.50s
